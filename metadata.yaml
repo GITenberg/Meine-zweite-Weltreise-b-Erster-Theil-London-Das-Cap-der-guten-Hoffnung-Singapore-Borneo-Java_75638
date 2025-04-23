@@ -1,0 +1,57 @@
+_repo: Meine-zweite-Weltreise-b-Erster-Theil-London-Das-Cap-der-guten-Hoffnung-Singapore-Borneo-Java_75638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pfeiffer, Ida
+    alias: Pfeiffer, Ida Reyer
+    birthdate: 1797
+    deathdate: 1858
+    gutenberg_agent_id: '3807'
+    url: http://www.gutenberg.org/2009/agents/3807
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer
+    - https://de.wikipedia.org/wiki/Ida_Pfeiffer
+description: 'Reading ease score: 68.2 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Travel & Geography'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75638'
+language: de
+pgterms:marc904: https://phaidra.univie.ac.at/search#?page=1&pagesize=10&collection=o:1078834
+pgterms:marc905: 20220611110859pfeiffer
+pgterms:marc906: '1856'
+pgterms:marc907: at
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by eBooks on Demand
+  at the University of Vienna.)
+publication_note: '  $aWien :$bCarl Gerold, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+- GITenberg
+summary: '"Meine zweite Weltreise: Erster Theil: London. Das Cap der guten Hoffnung…."
+  by Ida Pfeiffer is a travel account written in the mid-19th century. This work chronicles
+  the author''s experiences as she embarks on her second journey around the world,
+  highlighting her observations and encounters in various locations, starting from
+  London to the Cape of Good Hope and beyond. Pfeiffer, an adventurous and independent
+  female traveler, narrates her journey, exploring the cultures, landscapes, and societal
+  norms she encounters.  The opening of this account begins with Pfeiffer''s reflections
+  on her departure from Vienna and her arrival in London. She describes the bustling
+  and chaotic life of the city, contrasting it with her experiences in other ports
+  around the world. As she navigates the streets, she remarks on the discomfort of
+  public transport and the stark differences in culture and social manners. Throughout
+  her observations, she expresses both admiration and criticism toward English customs,
+  societal behavior, and the general lack of comfort she perceives in daily life.
+  These early chapters set the stage for her travels, emphasizing her keen observations
+  on culture and her determination to explore the world, despite the challenges faced
+  by a woman in her time. (This is an automatically generated summary.)'
+title: 'Meine zweite Weltreise : $b Erster Theil : London. Das Cap der guten Hoffnung.
+  Singapore. Borneo. Java.'
+url: http://www.gutenberg.org/ebooks/75638
